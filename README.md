@@ -1,2 +1,2 @@
 # notes
-electron builder打包配置
+electron-vue notes
